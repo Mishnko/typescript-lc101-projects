@@ -12,9 +12,7 @@ let kilometersToTheMoon: number = 384400;
 
 
 // Part 2: Print Days to Mars
-let milesToMars: number = kilometersToMars * milesPerKilometer;
-let hoursToMars: number = milesToMars / speedMph;
-let daysToMars: number = hoursToMars / 24;
+
 
 
 
